@@ -1,2 +1,2 @@
 # Traducao
-sistema simples usando interface e herança.
+sistema simples usando interface, herança e polimorfismo.
